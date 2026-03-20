@@ -38,12 +38,12 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/LucasBlackS2/aulaSpringBootWeb.git&quot;,
-    &quot;accountId&quot;: &quot;d6696405-89cb-44dc-97f8-0fb2f4519721&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LucasBlackS2/aula_mafra_Sprig.git",
+    "accountId": "d6696405-89cb-44dc-97f8-0fb2f4519721"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
@@ -60,8 +60,10 @@
     "Gradle.MerPrimeiroApp [:MerPrimeiroApp.MerPrimeiroAppApplication.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "Aula",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/usuario/Desktop/aula_mafra",
     "settings.editor.selected.configurable": "settings.qodana"
